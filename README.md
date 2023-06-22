@@ -1,4 +1,4 @@
-# Internship assignment
+# Assignment
 
 The task is to to create a class that can be represented as any type of vessel. To achieve this you need to create a base class that represents a *vessel*. The vessel class should be made so that we can use it to define different types of vessels in our fleet.
 
